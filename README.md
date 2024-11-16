@@ -1,6 +1,7 @@
 Addressbook Tutorial
 ====================
 updated the file
+A new line included in readme.MD to understand how jenkins functions.
 updated the jenkinsfile for automated build for every commit
 new line updated
 This tutorial teaches you some of the basic concepts in [Vaadin Framework](https://vaadin.com). It is meant to be
