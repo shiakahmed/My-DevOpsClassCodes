@@ -1,6 +1,7 @@
 Addressbook Tutorial
 ====================
 updated the file
+Updated a new line to understand git build periodically Jenkins Job.
 A new line included in readme.MD to understand how jenkins functions.
 updated the jenkinsfile for automated build for every commit
 new line updated
