@@ -1,8 +1,7 @@
 Addressbook Tutorial
 Updated the file to demo github poll scm.
 updated new line
-
-test 2 pol SCM LIne
+the is test line for POL SCM
 
 updated the new line to check if github webhook is able to send the events.
 ====================
