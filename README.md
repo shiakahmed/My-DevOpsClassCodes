@@ -5,6 +5,9 @@ updated new line
 added new line for poll scm
 lineadded for every unstable build
 
+
+MavenComplke installaed in jenkins
+
 updated the new line to check if github webhook is able to send the events.
 ====================
 updated the file
