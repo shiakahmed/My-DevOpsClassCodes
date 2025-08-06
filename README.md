@@ -1,7 +1,6 @@
 Addressbook Tutorial
 Updated the file to demo github poll scm.
-updated new line and commited the new line to fetch the 
-new line mv complie
+updated new line
 
 updated the new line to check if github webhook is able to send the events.
 ====================
