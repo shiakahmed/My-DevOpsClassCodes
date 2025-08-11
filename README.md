@@ -1,9 +1,6 @@
 Addressbook Tutorial
 Updated the file to demo github poll scm.
-updated new line
-
-added new line for poll scm
-lineadded for every unstable build
+MY new line
 
 
 MavenComplke installaed in jenkins
