@@ -4,6 +4,8 @@ MY new line
 this line for email
 line for slave machine
 
+line for mvm compile
+
 MavenComplke installaed in jenkins
 
 updated the new line to check if github webhook is able to send the events.
