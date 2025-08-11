@@ -2,6 +2,7 @@ Addressbook Tutorial
 Updated the file to demo github poll scm.
 MY new line
 this line for email
+line for slave machine
 
 MavenComplke installaed in jenkins
 
